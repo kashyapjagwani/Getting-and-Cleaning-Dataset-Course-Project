@@ -9,5 +9,5 @@
 ## About the R script
 The **run_analysis.R** file performs the above 5 steps onto the original data and the final output (the tidy dataset) is stored into the **tidy_dataset.txt**.
 
-
-**All the other information about the data can be found in the 'README.txt' file once you download the data from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) or run the R script.**
+## About the variables
+**All the information about the variables can be found in the 'README.txt' file once you download the data from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) or run the R script.**
